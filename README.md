@@ -15,14 +15,15 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [x] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
 https://i.imgur.com/4r7rY4l.mp4
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hegsx0J" data-context="false" ><a href="//imgur.com/a/hegsx0J"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+updated app to have auto layout for smaller sized devices, and more orientations
+https://imgur.com/ro36U8s
 
 ### Notes
 Resolved - There was an issue where the pod installations would cause a compile time error due to an extraneous library
