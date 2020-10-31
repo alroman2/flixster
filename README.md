@@ -9,12 +9,13 @@
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
 `
 
 <img src="https://i.giphy.com/media/DBK6xoBqS2PTj85Ll0/giphy.webp" width=250><br>
+<iframe src="https://giphy.com/embed/UyCJDdLD9AnV7qB4jR" width="235" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UyCJDdLD9AnV7qB4jR">via GIPHY</a></p>
 
 ### 
