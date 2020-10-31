@@ -15,6 +15,6 @@
 ### App Walkthrough GIF
 `
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://media.giphy.com/media/DBK6xoBqS2PTj85Ll0/giphy.gif" width=250><br>
 
 ### 
