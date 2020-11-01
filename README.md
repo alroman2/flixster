@@ -17,5 +17,6 @@
 
 <img src="https://i.giphy.com/media/DBK6xoBqS2PTj85Ll0/giphy.webp" width=250><br>
 
-<img src="https://media3.giphy.com/media/CgMHrcxZgBJXrlJVQC/giphy.gif" width=250><br>
+<p style = "bold"> Bonus Story: <\p>
+https://media3.giphy.com/media/CgMHrcxZgBJXrlJVQC/giphy.gif 
 ### 
